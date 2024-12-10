@@ -1,4 +1,4 @@
----
+device lock controller---
 manufacturer:
     - general
 ---
